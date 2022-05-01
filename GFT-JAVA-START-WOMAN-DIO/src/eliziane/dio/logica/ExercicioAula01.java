@@ -60,6 +60,7 @@ public class ExercicioAula01 {
 		System.out.println(" l1 == i2" + (l1 == i2));
 		System.out.println(" l2 >= i1" + (l2 >= i1));
 		System.out.println(" y1 != h1" + (y1 != h1));
+		System.out.println(" y1 != h1" + (y1 != h1));
 
 	}
 
